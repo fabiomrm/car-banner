@@ -1,0 +1,25 @@
+.input-container {
+    background: #ededed;
+    height: 5.375rem;
+    border-radius: 0.625rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 5rem;
+    margin-bottom: 1.25rem;
+}
+
+input {
+    height: 2.5rem;
+    padding: 0 0 0 0.8rem;
+    border-top-left-radius: 0.313rem;
+    border-bottom-left-radius: 0.313rem;
+    border: none;
+    flex: 1;
+}
+
+.input-button {
+    border-top-right-radius: 0.313rem;
+    border-bottom-right-radius: 0.313rem;
+    flex: 0;
+}
